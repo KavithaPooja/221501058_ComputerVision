@@ -81,10 +81,9 @@ python experiment_name.py
 
 ## 📬 Connect
 
-📧 Email: [syogesappu@gmail.com]  
-🌐 GitHub: [Appuyoges](https://github.com/Appuyoges)
+📧 Email: [tkavithapooja@gmail.com]  
+🌐 GitHub: [KavithaPooja]([https://github.com/KavithaPooja/])
 
 ---
 
-> 💡 *"Vision is the art of seeing what is invisible to others." – Jonathan Swift*
 
