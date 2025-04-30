@@ -82,7 +82,7 @@ python experiment_name.py
 ## 📬 Connect
 
 📧 Email: [tkavithapooja@gmail.com]  
-🌐 GitHub: [KavithaPooja]([https://github.com/KavithaPooja])
+🌐 GitHub:([https://github.com/KavithaPooja])
 
 ---
 
